@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Criptografia RSA</string>
+
+    <string-array name="titles_tab">
+        <item>GERAR CHAVES</item>
+        <item>CRIPTOGRAFAR</item>
+        <item>DESCRIPTOGRAFAR</item>
+    </string-array>
+</resources>
